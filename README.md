@@ -1,10 +1,8 @@
-# 雾凇拼音
+# 雾凇拼音 / 微软 IME 皮肤定制化版
 
-![demo](./others/demo.webp)
+![demo](./others/ms-skin.png)
 
-功能齐全，词库体验良好，长期更新修订。
-
-<br>
+> 此 Rime 配置基于[雾凇拼音](https://github.com/iDvel/rime-ice)定制化而来，仅适配[小狼毫](https://github.com/rime/weasel)，不保证其他平台的兼容性，也不会做兼容。
 
 [Rime Input Method Engine / 中州韵输入法引擎](https://rime.im/) 是一个跨平台的输入法算法框架。
 
@@ -233,6 +231,6 @@ Thanks to JetBrains for the OSS development license.
 
 ## 赞助 ☕
 
-如果觉得项目不错，可以请 Dvel 吃个煎饼馃子。
+如果觉得项目不错，可以请[雾凇拼音](https://github.com/iDvel/rime-ice)的开发者 Dvel 吃个煎饼馃子。
 
 <img src="./others/sponsor.webp" alt="请 Dvel 吃个煎饼馃子" width=600 />
